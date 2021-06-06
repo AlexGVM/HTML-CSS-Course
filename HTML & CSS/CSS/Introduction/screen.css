@@ -1,0 +1,8 @@
+h1 { /* añadir color al h1 */
+    color:orange; /*siempre debe de terminar con ; esto se llama una declaracion*/
+    text-align:center;
+}
+
+p {
+    color:green;
+}
